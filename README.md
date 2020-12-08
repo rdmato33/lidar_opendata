@@ -10,4 +10,4 @@ Ce projet recense de la manière la plus complète possible les données LiDAR a
 
 ## Extrait de la table attributaire
 
-![Alt text](https://github.com/rdmato33/lidar_opendata/blob/main/figures/table_attributaire.jpg "Optional Title")
+![Alt text](https://github.com/rdmato33/lidar_opendata/blob/main/figures/table_attributaire2.jpg "Optional Title")
