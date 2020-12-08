@@ -8,7 +8,7 @@ Ce projet recense les données LiDAR aéroportées disponibles en open data à t
 08/12/2020
 
 ## Types de données
-Les données concernent des nuages de points LiDAR aéroporté, des MNT haute résolution et dans certains cas des nuages de points photogrammétriques obtenus par drône (e.g. Irlande du Nord).
+Les données concernent des nuages de points LiDAR aéroportées, des MNT haute résolution et dans certains cas des nuages de points photogrammétriques obtenus par drône (e.g. Irlande du Nord).
 
 ## Limites
 - Certaines données peuvent avoir été oubliées.
