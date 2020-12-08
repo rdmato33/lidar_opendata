@@ -9,3 +9,5 @@ Ce projet recense de la manière la plus complète possible les données LiDAR a
 ![Alt text](https://github.com/rdmato33/lidar_opendata/blob/main/figures/emprise.jpg "Optional Title")
 
 ## Extrait de la table attributaire
+
+![Alt text](https://github.com/rdmato33/lidar_opendata/blob/main/figures/table_attributaire.jpg "Optional Title")
