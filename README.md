@@ -21,9 +21,8 @@ Les données concernent des nuages de points LiDAR aéroportées, des MNT haute 
 ![Alt text](https://github.com/rdmato33/lidar_opendata/blob/main/figures/table_attributaire.jpg "Optional Title")
 
 ## Téléchargement du shapefile
-Le shapefile est accessible [ici](https://github.com/rdmato33/lidar_opendata/tree/main/shapefile).
-
-N'oubliez pas de télécharger l'ensemble des fichiers contenus dans le répertoire afin de garantir le bon fonctionnement du shapefile.
+Le shapefile est contenu dans fichier .zip accessible [ici](https://github.com/rdmato33/lidar_opendata/tree/main/shapefile).
+Afin de garantir le bon fonctionnement du shapefile, tous les fichiers contenus dans le fichier .zip doivent être téléchargés.
 
 ## Auteur
 Rémi De Matos-Machado, Chercheur R&D chez Geosat 3D, https://rdematosmachado.wordpress.com/
