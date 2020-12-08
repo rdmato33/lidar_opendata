@@ -16,6 +16,7 @@ Les données concernent des nuages de points LiDAR aéroportées, des MNT haute 
 
 ## Aperçu de l'emprise des données
 ![Alt text](https://github.com/rdmato33/lidar_opendata/blob/main/figures/emprise.jpg "Optional Title")
+Fond de carte : OSM
 
 ## Extrait de la table attributaire
 ![Alt text](https://github.com/rdmato33/lidar_opendata/blob/main/figures/table_attributaire.jpg "Optional Title")
