@@ -6,5 +6,6 @@ Ce projet recense de la manière la plus complète possible les données LiDAR a
 
 ## Aperçu de l'emprise des données
 
+![Alt text](rdmato33/lidar_opendata/figures/emprise.jpg?raw=true "Optional Title")
 
 ## Extrait de la table attributaire
