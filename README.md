@@ -11,5 +11,5 @@ Ce projet recense de la manière la plus complète possible les données LiDAR a
 ![Alt text](https://github.com/rdmato33/lidar_opendata/blob/main/figures/table_attributaire.jpg "Optional Title")
 
 ## Téléchargement du shapefile
-Le shapefile est accessible [ici](https://github.com/rdmato33/lidar_opendata/shapefile)
+Le shapefile est accessible [ici](https://github.com/rdmato33/lidar_opendata/tree/main/shapefile).
 N'oubliez pas de télécharger l'ensemble des fichiers contenus dans le répertoire afin de garantir le bon fonctionnement du shapefile.
