@@ -2,7 +2,7 @@
 Inventaire de données LiDAR aéroportées en accès libre
 
 ## Objectif du projet
-Ce projet recense les données LiDAR aéroportées disponibles en open data à travers le monde. Ce travail, qui se fonde sur la fusion des ressources de deux sites web (https://portal.opentopography.org/datasets et https://arheologijaslovenija.blogspot.com/p/blog-page_81.html), permet ainsi de localiser les jeux de données téléchargeables gratuitement à travers un fichier shapefile (exploitable dans un SIG, tel que QGIS ou ArcGIS) décrivant l'emprise spatiale des données et leurs caractéristiques (lieu, format de donnée, résolution, lien de téléchargement, etc.).
+Ce projet recense les données LiDAR aéroportées disponibles en open data à travers le monde. Ce travail, qui se fonde sur la fusion des ressources de deux sites web (https://portal.opentopography.org/datasets et https://arheologijaslovenija.blogspot.com/p/blog-page_81.html), permet ainsi de localiser les jeux de données téléchargeables gratuitement à travers un fichier shapefile ou geopackage (exploitable dans un SIG, tel que QGIS ou ArcGIS) décrivant l'emprise spatiale des données et leurs caractéristiques (lieu, format de donnée, résolution, lien de téléchargement, etc.).
 
 ## Date du recensement
 08/12/2020
@@ -25,6 +25,9 @@ Fond de carte : OSM
 Le shapefile est contenu dans un fichier ZIP accessible [ici](https://github.com/rdmato33/lidar_opendata/tree/main/shapefile).
 
 Afin de garantir le bon fonctionnement du shapefile, tous les fichiers contenus dans le ZIP doivent être téléchargés.
+
+## Téléchargement du shapefile
+Le shapefile est accessible [ici](https://github.com/rdmato33/lidar_opendata/tree/main/geopackage).
 
 ## Auteur
 Rémi De Matos-Machado, Chercheur R&D chez Geosat 3D, https://rdematosmachado.wordpress.com/
