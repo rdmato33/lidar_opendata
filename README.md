@@ -27,7 +27,7 @@ Le shapefile est contenu dans un fichier ZIP accessible [ici](https://github.com
 Afin de garantir le bon fonctionnement du shapefile, tous les fichiers contenus dans le ZIP doivent être téléchargés.
 
 ## Téléchargement du shapefile
-Le shapefile est accessible [ici](https://github.com/rdmato33/lidar_opendata/tree/main/geopackage).
+Le geopackage est accessible [ici](https://github.com/rdmato33/lidar_opendata/tree/main/geopackage).
 
 ## Auteur
 Rémi De Matos-Machado, Chercheur R&D chez Geosat 3D, https://rdematosmachado.wordpress.com/
